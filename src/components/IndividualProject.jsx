@@ -14,7 +14,7 @@ export const IndividualProject = () => {
     { id: 2, name: "NamePassPro", img: NamePass, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro' },
     { id: 3, name: "Tech Blog", img: Blog, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC' },
     { id: 4, name: "NamePass", img: NamePass, demo: 'https://theresaqueryforthat.github.io/namepass/', code: 'https://github.com/theresaqueryforthat/namepass' },
-    { id: 5, name: "Employee Tracker", img: EmployeeTracker, demo: 'https://ocampott.github.io/lista-de-tareas-app-react/', code: 'https://github.com/RickyRicer/employeeTracker'},
+    { id: 5, name: "Employee Tracker", img: EmployeeTracker, demo: '#', code: 'https://github.com/RickyRicer/employeeTracker'},
     { id: 6, name: "Weather Dashboard", img: Weather, demo: 'https://rickyricer.github.io/Weather-Dashboard-Using-APIs/', code: 'https://github.com/RickyRicer/Weather-Dashboard-Using-APIs'}
   ];
 

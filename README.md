@@ -14,8 +14,9 @@
 
 ## Description
 
-<a href="https://rickyricer.github.io/rickAnsayWdPortfolio/">View Demo!</a> <br />
+<a href="https://rickyricer.github.io/reactPortfolio/">View Demo!</a> <br />
 <br />
+[![Product Name Screen Shot][product-screenshot]](#) <br />
 This is my newly redesigned portfolio! Powered by React! Thanks for taking a look!
 
 ## Installation
@@ -59,4 +60,5 @@ Find me on GitHub: [RickyRicer](https://github.com/RickyRicer)<br />
 ✉️ Email me with any questions: rick.ansay@gmail.com<br /><br />
 🖖 This README was generated with ❤️ by [README-generator](https://github.com/RickyRicer/README-Generator) 🔥🔥🔥
     
-  
+  <!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: img/screenshot.png

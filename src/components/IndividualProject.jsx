@@ -1,17 +1,18 @@
 import React from "react";
 import MoonBay from '../assets/moonbay.png';
-import ToDoList from "../assets/todolist.jpg"
-import ShoppingCart from "../assets/shopping-cart-practice.jpg"
+import Weather from '../assets/weather.png';
+import ToDoList from "../assets/todolist.jpg";
+// import ShoppingCart from "../assets/shopping-cart-practice.jpg";
 
 export const IndividualProject = () => {
 
   const projects = [
     { id: 1, name: "MoonBay", img: MoonBay, demo: 'https://moonbay.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/MoonBay'},
-    { id: 2, name: "To do list App", img: ToDoList, demo: 'https://ocampott.github.io/lista-de-tareas-app-react/', code: 'https://github.com/ocampott/lista-de-tareas-app-react' },
-    { id: 3, name: "Shopping cart", img: ShoppingCart, demo: 'https://ocampott.github.io/shopping-cart-practice/', code: 'https://github.com/ocampott/shopping-cart-practice' },
-    { id: 4, name: "Shopping cart", img: ShoppingCart, demo: 'https://ocampott.github.io/shopping-cart-practice/', code: 'https://github.com/ocampott/shopping-cart-practice' },
-    { id: 5, name: "To do list App", img: ToDoList, demo: 'https://ocampott.github.io/lista-de-tareas-app-react/', code: 'https://github.com/ocampott/lista-de-tareas-app-react'},
-    { id: 6, name: "Ortopedia Vida Page", img: MoonBay, demo: 'https://ocampott.github.io/ortopedia-vida-webpage-coder/', code: 'https://github.com/ocampott/ortopedia-vida-webpage-coder'}
+    { id: 2, name: "NamePassPro", img: ToDoList, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro' },
+    { id: 3, name: "NamePass", img: Weather, demo: 'https://theresaqueryforthat.github.io/namepass/', code: 'https://github.com/theresaqueryforthat/namepass' },
+    { id: 4, name: "Tech Blog", img: Weather, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC' },
+    { id: 5, name: "Employee Tracker", img: ToDoList, demo: 'https://ocampott.github.io/lista-de-tareas-app-react/', code: 'https://github.com/RickyRicer/employeeTracker'},
+    { id: 6, name: "Weather Dashboard", img: Weather, demo: 'https://rickyricer.github.io/Weather-Dashboard-Using-APIs/', code: 'https://github.com/RickyRicer/Weather-Dashboard-Using-APIs'}
   ];
 
   return (

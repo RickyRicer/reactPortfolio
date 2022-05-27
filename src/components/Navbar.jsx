@@ -33,6 +33,9 @@ export const Navbar = () => {
                 <li>
                 <Link to="projects" smooth={true} duration={500}>{("Projects")}</Link>
                 </li>
+                <li>
+                <Link to="contact" smooth={true} duration={500}>{("Contact")}</Link>
+                </li>
             </ul>
         </div>
 
@@ -50,7 +53,7 @@ export const Navbar = () => {
             <Link onClick={handleClick} to="about-me" smooth={true} duration={500}>About me</Link>
             </li>
             <li className="py-6 text-4xl">
-            <Link onClick={handleClick} to="skills" smooth={true} duration={500}>Skills</Link>
+            <Link onClick={handleClick} to="skills" smooth={true} duration={500}>Languages</Link>
             </li>
             <li className="py-6 text-4xl">
             <Link onClick={handleClick} to="projects" smooth={true} duration={500}>Projects</Link>

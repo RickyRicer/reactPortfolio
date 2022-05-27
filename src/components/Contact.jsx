@@ -10,6 +10,7 @@ export const Contact = () => {
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-yellow-300 text-gray-300">{("Contact Me")}</p>
           <p className="py-6">{("Click one of the icons to the left, or email me: rick.ansay@gmail.com")}</p>
+          <p className="py-6">{("MTFBWY")}</p>
         </div>
       </div>
     </div>

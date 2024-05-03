@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.413439f6.css",
-    "main.js": "/reactPortfolio/static/js/main.096c31b5.js",
+    "main.js": "/reactPortfolio/static/js/main.074bced3.js",
     "static/media/moonbay.png": "/reactPortfolio/static/media/moonbay.4fd37971e32d1e75ef76.png",
     "static/media/namepass-preview.png": "/reactPortfolio/static/media/namepass-preview.17f271e097a395c748eb.png",
+    "static/media/Rick-A-Ansay.pdf": "/reactPortfolio/static/media/Rick-A-Ansay.0e4254f54780df8b54c1.pdf",
     "static/media/blog-preview.png": "/reactPortfolio/static/media/blog-preview.7c8d180fadc1865e8a66.png",
-    "static/media/Rick-A-Ansay.pdf": "/reactPortfolio/static/media/Rick-A-Ansay.86d6ceec9299a31c4b0b.pdf",
     "static/media/weather.png": "/reactPortfolio/static/media/weather.2826253e367e2e2da35c.png",
     "static/media/employeeTracker.png": "/reactPortfolio/static/media/employeeTracker.2d057885574f6a93a8d8.png",
     "static/media/RICKLOGO.png": "/reactPortfolio/static/media/RICKLOGO.a422d648288683771451.png",
     "index.html": "/reactPortfolio/index.html",
     "main.413439f6.css.map": "/reactPortfolio/static/css/main.413439f6.css.map",
-    "main.096c31b5.js.map": "/reactPortfolio/static/js/main.096c31b5.js.map"
+    "main.074bced3.js.map": "/reactPortfolio/static/js/main.074bced3.js.map"
   },
   "entrypoints": [
     "static/css/main.413439f6.css",
-    "static/js/main.096c31b5.js"
+    "static/js/main.074bced3.js"
   ]
 }

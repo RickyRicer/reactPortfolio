@@ -17,7 +17,7 @@ export const AboutMe = () => {
                     <p>{("Hi, I'm Rick! I'm a passionate web developer who loves creating front & back end code!")}</p>
                 </div>
                 <div>
-                    <p>{("I may only have 1 year of experience in this industry, but you won't find anyone with more tenacity and passion for creating stunning web pages! From building flash pages in high school, and changing the design of myspace profiles, I've loved web design for decades. A huge fan of building APIs, no challenge is too great! I'm a creative thinker, who loves a good puzzle. At present, I'm learning typescript and solidity smart contracts.")}</p>
+                    <p>{("Hello there! I'm Rick Ansay, a dedicated Full Stack Software Developer with a passion for creating meaningful digital experiences. Whether it's integrating Stripe for smoother payments, crafting intuitive Calendly scheduling features, or designing seamless demo flows, I thrive on leveraging technology to solve real-world problems. Beyond the screen, I'm a proud father who cherishes every moment with my family. When I'm not immersing myself in lines of code, you'll find me exploring the depths as a certified scuba diver or enjoying quality time with my beloved Bernese Mountain Dog, Mando. From diving into the crypto/NFT space to tinkering with 3D printers and delving into the worlds of video games and sci-fi, there's always something new to learn and discover. Life's an adventure, and I'm here to embrace every moment of it, both personally and professionally!")}</p>
                 </div>
             </div>
         </div>

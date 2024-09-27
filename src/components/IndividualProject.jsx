@@ -3,7 +3,8 @@ import AutoSprink from '../assets/autosprink.png'
 import Blog from '../assets/blog-preview.png';
 import EmployeeTracker from '../assets/employeeTracker.png';
 import MoonBay from '../assets/moonbay.png';
-import NamePass from '../assets/namepass-preview.png';
+import NamePass from '../assets/namepass.png';
+import NamePassPro from '../assets/namepasspro.png';
 import Weather from '../assets/weather.png';
 
 
@@ -13,7 +14,7 @@ export const IndividualProject = () => {
   const projects = [
     { id: 1, name: "AutoSprink", img: AutoSprink, demo: 'https://autosprink.com/', code: 'https://github.com/mepcad-ransay', desc: 'Multiple apps that utilize MithrilJS, a React-like front end. Make sure to view other products'},
     { id: 2, name: "MoonBay", img: MoonBay, demo: 'https://moonbay.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/MoonBay', desc: 'App using the OpenSea API to create a WEB2 NFT site'},
-    { id: 3, name: "NamePassPro", img: NamePass, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro', desc: 'A password and username randomizer app, built using MVC' },
+    { id: 3, name: "NamePassPro", img: NamePassPro, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro', desc: 'A password and username randomizer app, built using MVC' },
     { id: 4, name: "Tech Blog", img: Blog, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC', desc: 'App for blogging, another MVC framework' },
     { id: 5, name: "NamePass", img: NamePass, demo: 'https://taqft.github.io/namepass/', code: 'https://github.com/taqft/namepass', desc: 'A basic version of NamePassPro' },
     { id: 6, name: "Employee Tracker", img: EmployeeTracker, demo: '#', code: 'https://github.com/RickyRicer/employeeTracker', desc: 'An app that utilizes the CLI, mySQL, inquirer.js, and C Table to create an employee database'},

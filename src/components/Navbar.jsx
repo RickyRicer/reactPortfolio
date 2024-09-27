@@ -5,7 +5,11 @@ import { Link } from 'react-scroll';
 
 
 export const Navbar = () => {
+    const [connected, setConnected] = useState(false)
 
+    const connectWallet = () =>{
+      connectWallet()
+    }
 
     const [nav, setNav] = useState(false);
     const handleClick = () => { setNav(!nav) }
@@ -36,6 +40,13 @@ export const Navbar = () => {
                 <li>
                 <Link to="contact" smooth={true} duration={500}>{("Contact")}</Link>
                 </li>
+                <div>
+                    {!connected ? (
+                        <button onClick={connectWallet}>Connect Wallet</button>
+                    ) : (
+                        <p>Wallet connected!</p>
+                    )}
+                    </div>
             </ul>
         </div>
 

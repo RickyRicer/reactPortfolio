@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.413439f6.css",
-    "main.js": "/reactPortfolio/static/js/main.b0abe5d3.js",
+    "main.js": "/reactPortfolio/static/js/main.cf6b3309.js",
     "static/media/autosprink.png": "/reactPortfolio/static/media/autosprink.e51b2658222b3475ce6c.png",
+    "static/media/namepass.png": "/reactPortfolio/static/media/namepass.bbdfb9b59c0dbf160e71.png",
     "static/media/moonbay.png": "/reactPortfolio/static/media/moonbay.4fd37971e32d1e75ef76.png",
-    "static/media/namepass-preview.png": "/reactPortfolio/static/media/namepass-preview.17f271e097a395c748eb.png",
+    "static/media/namepasspro.png": "/reactPortfolio/static/media/namepasspro.17f271e097a395c748eb.png",
     "static/media/blog-preview.png": "/reactPortfolio/static/media/blog-preview.7c8d180fadc1865e8a66.png",
     "static/media/weather.png": "/reactPortfolio/static/media/weather.2826253e367e2e2da35c.png",
     "static/media/Rick-A-Ansay.pdf": "/reactPortfolio/static/media/Rick-A-Ansay.1eae9c31a3158010df52.pdf",
@@ -12,10 +13,10 @@
     "static/media/RICKLOGO.png": "/reactPortfolio/static/media/RICKLOGO.a422d648288683771451.png",
     "index.html": "/reactPortfolio/index.html",
     "main.413439f6.css.map": "/reactPortfolio/static/css/main.413439f6.css.map",
-    "main.b0abe5d3.js.map": "/reactPortfolio/static/js/main.b0abe5d3.js.map"
+    "main.cf6b3309.js.map": "/reactPortfolio/static/js/main.cf6b3309.js.map"
   },
   "entrypoints": [
     "static/css/main.413439f6.css",
-    "static/js/main.b0abe5d3.js"
+    "static/js/main.cf6b3309.js"
   ]
 }

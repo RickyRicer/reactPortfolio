@@ -17,7 +17,7 @@ export const IndividualProject = () => {
     { id: 3, name: "NamePassPro", img: NamePassPro, demo: 'https://namepass.herokuapp.com/', code: 'https://github.com/theresaqueryforthat/NamePassPro', desc: 'A password and username randomizer app, built using MVC' },
     { id: 4, name: "Tech Blog", img: Blog, demo: 'https://tech-feed-rb.herokuapp.com/', code: 'https://github.com/RickyRicer/techBlogMVC', desc: 'App for blogging, another MVC framework' },
     { id: 5, name: "NamePass", img: NamePass, demo: 'https://taqft.github.io/namepass/', code: 'https://github.com/taqft/namepass', desc: 'A basic version of NamePassPro' },
-    { id: 6, name: "Employee Tracker", img: EmployeeTracker, demo: '#', code: 'https://github.com/RickyRicer/employeeTracker', desc: 'An app that utilizes the CLI, mySQL, inquirer.js, and C Table to create an employee database'},
+    { id: 6, name: "Employee Tracker", img: EmployeeTracker, demo: '#', code: 'https://github.com/RickyRicer/employeeTracker', desc: 'A CLI app that utilizes mySQL, inquirer.js, and C Table to create an employee database'},
     { id: 7, name: "Weather Dashboard", img: Weather, demo: 'https://rickyricer.github.io/Weather-Dashboard-Using-APIs/', code: 'https://github.com/RickyRicer/Weather-Dashboard-Using-APIs', desc: 'A weather app connected to Weather API'}
   ];
 

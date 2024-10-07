@@ -17,7 +17,7 @@
 <a href="https://rickyricer.github.io/reactPortfolio/">View Demo!</a> <br />
 <br />
 [![Product Name Screen Shot][product-screenshot]](#) <br />
-This is my newly redesigned portfolio! Powered by React! Thanks for taking a look!
+This is my newly redesigned portfolio, Powered by React. Thanks for taking a look!
 
 ## Installation
 

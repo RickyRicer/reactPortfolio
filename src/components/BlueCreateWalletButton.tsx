@@ -21,7 +21,6 @@ const buttonStyles = {
  
 const sdk = new CoinbaseWalletSDK({
   appName: 'Ricky Ricer Portfolio',
-  appLogoUrl: 'https://example.com/logo.png',
   appChainIds: [84532],
 });
  
@@ -32,7 +31,7 @@ export function BlueCreateWalletButton({ handleSuccess, handleError }) {
     try {
       const [address] = await provider.request({
         method: 'eth_requestAccounts',
-      });
+      }) as string[];
       handleSuccess(address);
     } catch (error) {
       handleError(error);

@@ -14,10 +14,10 @@ export const AboutMe = () => {
             </div>
             <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
                 <div className="sm:text-right text-4xl font-bold">
-                    <p>{("Hi, I'm Rick! I'm a passionate web developer who loves creating front & back end code!")}</p>
+                    <p>{("Hi, I'm Rick! I'm a passionate web developer who loves creating elegant and efficient code.")}</p>
                 </div>
                 <div>
-                    <p>{("Hello there! I'm Rick Ansay, a dedicated Full Stack Software Developer with a passion for creating meaningful digital experiences. Whether it's integrating Stripe for smoother payments, crafting intuitive Calendly scheduling features, or designing seamless demo flows, I thrive on leveraging technology to solve real-world problems. Beyond the screen, I'm a proud father who cherishes every moment with my family. When I'm not immersing myself in lines of code, you'll find me exploring the depths as a certified scuba diver or enjoying quality time with my beloved Bernese Mountain Dog, Mando. From diving into the crypto/NFT space to tinkering with 3D printers and delving into the worlds of video games and sci-fi, there's always something new to learn and discover. Life's an adventure, and I'm here to embrace every moment of it, both personally and professionally!")}</p>
+                    <p>{("Hello there! I’m a full-stack web developer with a passion for crafting seamless digital experiences. With a background in the automotive industry and years of hands-on coding, I bring a problem-solving mindset to every project. I specialize in TypeScript, React, and Node.js, building everything from dynamic web applications to smart contracts on Ethereum and Solana. I also have experience integrating payment systems like Stripe and scheduling systems such as Calendly, making online commerce smooth and secure. Whether it’s optimizing a front-end interface, architecting a back-end system, or creating automated Discord bots, I love bringing ideas to life through code. Let’s build something awesome together!")}</p>
                 </div>
             </div>
         </div>
